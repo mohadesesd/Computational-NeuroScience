@@ -29,10 +29,14 @@ This repository is structured into several key sections, each representing a fun
 - **Difference of Gaussians (DoG)**: Utilizes DoG filters to process images by highlighting edges and removing noise, mimicking the processing in the retina.
 - **Gabor Filters**: Applies Gabor filters for texture and edge analysis in images, reflecting the image processing capabilities of simple cells in the visual cortex.
 
+### Spiking Neural Network for Object Recognition
+
+An implementation of a Spiking Neural Network (SNN) tailored for the task of object recognition using the CIFAR-10 dataset.
+
 ## Getting Started
 
 To get started with the projects in this repository, please ensure you have the following prerequisites installed:
 
 - Python 3.x
-- Relevant Python libraries such as NumPy, Matplotlib, etc.
+- Relevant Python libraries such as NumPy, Matplotlib, Pytorch, etc.
 
